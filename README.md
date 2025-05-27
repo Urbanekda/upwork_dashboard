@@ -54,6 +54,3 @@ jupyter notebook analysis.ipynb
 - Primary dataset: [Upwork job postings](https://www.kaggle.com/datasets/ahmedmyalo/upwork-freelance-jobs-60k)
 - Time period: 2023
 - Total records analyzed: 60448
-
-##  📫
-[Your contact information]
