@@ -4,7 +4,7 @@
 A data analysis project examining trends and patterns in the data science job market on Upwork. This project analyzes job postings, requirements, and market demands to provide insights into the freelance data science ecosystem.
 
 ## Check out here 👀
-(Hosted version)[https://upworkjobs.streamlit.app]
+[Hosted version](https://upworkjobs.streamlit.app)
 
 ## Features 🌟
 - Analysis of job requirements and skill demands
