@@ -3,6 +3,9 @@
 ## Overview 🎯
 A data analysis project examining trends and patterns in the data science job market on Upwork. This project analyzes job postings, requirements, and market demands to provide insights into the freelance data science ecosystem.
 
+## Check out here 👀
+(Hosted version)[https://upworkjobs.streamlit.app]
+
 ## Features 🌟
 - Analysis of job requirements and skill demands
 - Visualization of salary ranges and project budgets
@@ -52,5 +55,5 @@ jupyter notebook analysis.ipynb
 - Time period: 2023
 - Total records analyzed: 60448
 
-## Contact 📫
+##  📫
 [Your contact information]
